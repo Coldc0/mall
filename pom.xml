@@ -5,12 +5,19 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.gulimall</groupId>
-    <artifactId>mall</artifactId>
+    <artifactId>gulimall</artifactId>
     <version>1.0-SNAPSHOT</version>
-
+    <packaging>pom</packaging>
+    <modules>
+        <module>gulimall-ware</module>
+        <module>gulimall-coupon</module>
+        <module>gulimall-order</module>
+        <module>gulimall-product</module>
+        <module>gulimall-member</module>
+    </modules>
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
     </properties>
-
+    
 </project>
