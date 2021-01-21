@@ -5,61 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="456a2cbb-882a-46e3-89ae-a78e9080c7a9" name="Default Changelist" comment="create module">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-coupon/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-coupon/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-coupon/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-coupon/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-coupon/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-coupon/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-coupon/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-coupon/src/main/java/com/gulimall/coupon/GulimallCouponApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-coupon/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-coupon/src/test/java/com/gulimall/coupon/GulimallCouponApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-member/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-member/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-member/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-member/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-member/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-member/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-member/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-member/src/main/java/com/gulimall/member/GulimallMemberApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-member/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-member/src/test/java/com/gulimall/member/GulimallMemberApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-order/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-order/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-order/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-order/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-order/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-order/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-order/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-order/src/main/java/com/gulimall/order/GulimallOrderApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-order/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-order/src/test/java/com/gulimall/order/GulimallOrderApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-product/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-product/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-product/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-product/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-product/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-product/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-product/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-product/src/main/java/com/gulimall/roduct/GulimallProductApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-product/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-product/src/test/java/com/gulimall/roduct/GulimallProductApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-ware/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-ware/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-ware/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-ware/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-ware/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-ware/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-ware/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-ware/src/main/java/com/gulimall/ware/GulimallWareApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-ware/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulimall-ware/src/test/java/com/gulimall/ware/GulimallWareApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,14 +23,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="localRepository" value="C:\Users\Shen\.m2\repository" />
-        <option name="userSettingsFile" value="C:\Users\Shen\.m2\settings.xml" />
-      </MavenGeneralSettings>
-    </option>
   </component>
   <component name="ProjectId" id="1nNSzQYg2WqhuysK7dT4XoR8h08" />
   <component name="ProjectLevelVcsManager">
@@ -120,15 +59,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -204,6 +141,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create module" />
-    <option name="LAST_COMMIT_MESSAGE" value="create module" />
+    <MESSAGE value="repair the project" />
+    <option name="LAST_COMMIT_MESSAGE" value="repair the project" />
   </component>
 </project>
