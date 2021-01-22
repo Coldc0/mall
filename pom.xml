@@ -14,10 +14,14 @@
         <module>gulimall-order</module>
         <module>gulimall-product</module>
         <module>gulimall-member</module>
+        <module>renren-generator</module>
+        <module>renren-fast</module>
+        <module>gulimall-common</module>
     </modules>
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
     </properties>
+
     
 </project>
